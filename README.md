@@ -12,6 +12,6 @@ Incluye enlaces relevantes sobre documentación, repositorios, herramientas de g
 
 **Documentación General**: [Enlace a los documento del proyecto en Google Drive]()
 
-Por favor, consultar estos recursos para obtener información detallada sobre el proyecto ApiRestFull para Scotia Tech Call Center. Si necesitas acceso adicional o tienes alguna pregunta, no dudes en contactar al equipo responsable del proyecto.
+Por favor, consultar estos recursos para obtener información detallada sobre el proyecto SGIE para CORHUILA. Si necesitas acceso adicional o tienes alguna pregunta, no dudes en contactar al equipo responsable del proyecto.
 
 📧 Correo electrónico: [jszambrano@corhuila.edu.co](mailto:jszambrano@corhuila.edu.co)
